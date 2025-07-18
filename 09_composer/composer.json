@@ -1,0 +1,17 @@
+{
+    "name": "avin/09_composer",
+    "autoload": {
+        "psr-4": {
+            "Avin\\Testing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "avinpogi123",
+            "email": "105871711+avinpogi123@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
